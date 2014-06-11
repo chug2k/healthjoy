@@ -1,0 +1,8 @@
+.banner {
+  background: url(../images/banner_sitting.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 50px 0 0px; }
+
+.collapse.navbar-collapse.bs-navbar-collapse {
+  text-align: right; }
